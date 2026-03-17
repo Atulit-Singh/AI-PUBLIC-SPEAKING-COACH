@@ -321,24 +321,9 @@ AI_PUBLIC_SPEAKING_COACH/
 └── requirements.txt          # Python dependencies
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Implement your enhancement
-4. Add tests and documentation
-5. Submit a pull request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For issues and questions:
-- Create an issue on GitHub
-- Check the documentation
-- Review the troubleshooting guide
 
 ## Future Roadmap
 
@@ -348,3 +333,12 @@ For issues and questions:
 - [ ] Advanced reporting dashboard
 - [ ] Mobile application development
 - [ ] Integration with popular presentation tools
+
+##  My Contribution
+
+* Contributed as a **tester**
+* Tested different features of the application
+* Helped identify bugs and usability issues
+* Provided feedback to improve user experience
+
+> Note: This repository is forked from the original project. My role was focused on testing and feedback.
